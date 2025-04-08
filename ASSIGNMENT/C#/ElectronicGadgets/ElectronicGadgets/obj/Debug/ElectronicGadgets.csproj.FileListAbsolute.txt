@@ -1,0 +1,7 @@
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\bin\Debug\ElectronicGadgets.exe.config
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\bin\Debug\ElectronicGadgets.exe
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\bin\Debug\ElectronicGadgets.pdb
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\obj\Debug\ElectronicGadgets.csproj.AssemblyReference.cache
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\obj\Debug\ElectronicGadgets.csproj.CoreCompileInputs.cache
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\obj\Debug\ElectronicGadgets.exe
+C:\Users\raksh\source\repos\ElectronicGadgets\ElectronicGadgets\obj\Debug\ElectronicGadgets.pdb
