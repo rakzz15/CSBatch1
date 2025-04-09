@@ -1,0 +1,10 @@
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\bin\Debug\LoanManagementSystem1.exe.config
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\bin\Debug\LoanManagementSystem1.exe
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\bin\Debug\LoanManagementSystem1.pdb
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\obj\Debug\LoanManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\obj\Debug\LoanManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\obj\Debug\LoanMana.06341B5B.Up2Date
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\obj\Debug\LoanManagementSystem1.exe
+C:\Users\raksh\source\repos\LoanManagementSystem1\LoanManagementSystem1\obj\Debug\LoanManagementSystem1.pdb
